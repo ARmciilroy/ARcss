@@ -430,7 +430,7 @@ ul.thin li {
 }
 
 #alerts a {
-	color: #ccc;
+	color: #000;
 }
 
 .alertbar.blend {
@@ -833,8 +833,12 @@ ul.poll li.graph {
 	text-align: center;
 }
 
-.torrent_table td.cats_col{
-	background:#222;
+.torrent_table td.cats_col:nth-child(even){
+	background:#808080;
+}
+
+.torrent_table td.cats_col:nth-child(odd){
+	background:#616161;
 }
 
 .torrent_table .colhead td.cats_col{
