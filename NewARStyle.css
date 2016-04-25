@@ -834,7 +834,11 @@ ul.poll li.graph {
 }
 
 .torrent_table td.cats_col{
-	background:#000;
+	background:#222;
+}
+
+.torrent_table .colhead td.cats_col{
+	background:#7ebdfa
 }
 
 .group_torrent span {
