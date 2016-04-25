@@ -198,6 +198,7 @@ ul.thin li {
 
 #content {
 	margin: auto;
+	padding-top:5px;
 	width: 100%;
 	overflow: hidden;
 	background-color: #ECFAEA;
