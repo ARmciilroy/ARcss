@@ -220,6 +220,7 @@ ul.thin li {
 	padding: 1em 0;
 	color: #000;
 	background:#7ebdfa;
+	border-top:black 1px solid;
 }
 
 #logo {
