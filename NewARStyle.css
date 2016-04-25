@@ -724,7 +724,10 @@ table.slice {
 
 table.cat_list {
 	background-color:#eaf4fa;
-	border: black 1px solid;
+	border: none;
+	-webkit-box-shadow: inset 0px 0px 5px 2px rgba(0,0,0,0.75);
+	-moz-box-shadow: inset 0px 0px 5px 2px rgba(0,0,0,0.75);
+	box-shadow: inset 0px 0px 5px 2px rgba(0,0,0,0.75);
 }
 
 table.cat_list tr{
