@@ -238,9 +238,7 @@ ul.thin li {
 }
 
 #menu {
-	position: absolute;
-	top: 125px;
-	width: 90%;
+	width: 100%;
 	padding: 0.6em 0;
 	text-align: center;
 	background-color: #222;
@@ -359,9 +357,7 @@ ul.thin li {
 }
 
 #searchbars {
-	position: absolute;
-	top: 155px;
-	width: 90%;
+	width: 100%;
 	text-align: center;
 	background-color: #303030;
 	padding: 4px 0px;
@@ -417,8 +413,6 @@ ul.thin li {
 
 #alerts {
 	position: relative;
-	margin-top: 60px;
-	margin-bottom: -60px;
 	padding: 10px 0px;
 	width: 100%;
 	background-color: #303030;
