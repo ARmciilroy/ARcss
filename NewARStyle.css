@@ -722,6 +722,14 @@ table.slice {
 	margin-top: -1px;
 }
 
+table.cat_list {
+	background-color:#eaf4fa;
+}
+
+table.cat_list tr{
+	border:none;
+}
+
 .error_message {
 	border: 1px solid #666;
 	padding: 3px 0px 3px 0px;
