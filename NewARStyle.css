@@ -269,6 +269,7 @@ ul.thin li {
 	background-color: #bffedc;
 	text-decoration: none;
 	color: #000;
+	border: 1px solid #000;
 }
 
 #donation-outer {
