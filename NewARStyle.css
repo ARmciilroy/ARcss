@@ -299,14 +299,15 @@ ul.thin li {
 }
 
 #userinfo {
-	background: #1c1c1c;
-	color: #777;
+	background: #eaf4fa;
+	color: #000;
 	width: 100%;
 	text-align: center;
 	font-size: 12pt;
 	padding: 3px 0px;
 	z-index: 10;
 	min-width: 850px;
+	border: solid black 1px;
 }
 
 #userinfo img {
@@ -342,7 +343,7 @@ ul.thin li {
 }
 
 #userinfo span.stat {
-	color: #AAA;
+	color: #000;
 }
 
 #userinfo_username {
