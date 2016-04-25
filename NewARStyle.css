@@ -266,9 +266,9 @@ ul.thin li {
 }
 
 #menu ul li a:hover {
-	background-color: #303030;
+	background-color: #bffedc;
 	text-decoration: none;
-	color: #fff;
+	color: #000;
 }
 
 #donation-outer {
