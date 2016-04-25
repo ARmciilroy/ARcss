@@ -1090,3 +1090,7 @@ tr.torrent .bookmark > a:after { color:#999; }
 span.last_poster a{
 	font-weight:bold;
 }
+
+.linkbox strong {
+	color:#808080;
+}
