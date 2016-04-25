@@ -683,7 +683,7 @@ td, th {
 }
 
 .colhead {
-	background: #121212;
+	background: #7ebdfa;
 	font-weight: bold;
 	color: #ffffff;
 }
@@ -814,8 +814,12 @@ ul.poll li.graph {
 	font-weight: bold;
 }
 
-.torrent_table tr.group, tr.group_torrent, tr.torrent {
-	background-color: #222;
+.torrent_table tr.group:nth-child(even), tr.group_torrent:nth-child(even), tr.torrent:nth-child(even) {
+	background-color: #eaf4fa;
+}
+
+.torrent_table tr.group:nth-child(odd), tr.group_torrent:nth-child(odd), tr.torrent:nth-child(odd) {
+	background-color: #C0E4FA;
 }
 
 .torrent_table div.tags {
