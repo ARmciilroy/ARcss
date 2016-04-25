@@ -670,10 +670,12 @@ table {
 tr {
 	border: 1px solid #303030;
 	background-color: #eaf4fa;
+	font-size:9pt;
 }
 
 tr.rowa {
 	background-color: #C0E4FA;
+	font-size:9pt;
 }
 
 td, th {
