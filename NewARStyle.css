@@ -290,7 +290,7 @@ ul.thin li {
 }
 
 #donation-inner {
-	background: none repeat scroll 0% 0% #8A0829;
+	background: green;
 	height: 100%;
 }
 
@@ -303,6 +303,7 @@ ul.thin li {
 	padding: 3px;
 	text-align: center;
 	font-size: 8pt;
+	background:red;
 }
 
 #userinfo {
