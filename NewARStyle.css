@@ -669,11 +669,11 @@ table {
 
 tr {
 	border: 1px solid #303030;
-	background-color: #222;
+	background-color: #eaf4fa;
 }
 
 tr.rowa {
-	background-color: #222222;
+	background-color: #C0E4FA;
 }
 
 td, th {
