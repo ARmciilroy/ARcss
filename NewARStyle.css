@@ -724,10 +724,12 @@ table.slice {
 
 table.cat_list {
 	background-color:#eaf4fa;
+	border: black 1px solid;
 }
 
 table.cat_list tr{
 	border:none;
+	background-color:#eaf4fa;
 }
 
 .error_message {
