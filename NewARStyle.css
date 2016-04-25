@@ -282,7 +282,7 @@ ul.thin li {
 	position: absolute;
 	top: 60px;
 	right: 7.5%;
-	background: #fff;
+	background: #FA7A81;
 	border:black solid 1px;
 	height: 15px;
 	width: 150px;
@@ -303,7 +303,6 @@ ul.thin li {
 	padding: 3px;
 	text-align: center;
 	font-size: 8pt;
-	background:red;
 }
 
 #userinfo {
