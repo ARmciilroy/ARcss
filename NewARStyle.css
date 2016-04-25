@@ -45,7 +45,7 @@ html {
 body {
 	width: 100%;
 	font-family: tahoma,helvetica,sans-serif;
-	font-size: 8pt;
+	font-size: 12pt;
 	color: #999;
 	min-width: 850px;
 	background-color: #FFF;
@@ -216,7 +216,7 @@ ul.thin li {
 	width: 100%;
 	text-align: center;
 	padding: 1em 0;
-	color: #fff;
+	color: #000;
 }
 
 #logo {
@@ -303,7 +303,7 @@ ul.thin li {
 	color: #777;
 	width: 100%;
 	text-align: center;
-	font-size: 8pt;
+	font-size: 12pt;
 	padding: 3px 0px;
 	z-index: 10;
 	min-width: 850px;
@@ -329,7 +329,7 @@ ul.thin li {
 }
 
 #userinfo a {
-	color: #777;
+	color: #000;
 }
 
 #userinfo a:hover {
