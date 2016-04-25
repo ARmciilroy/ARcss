@@ -816,10 +816,12 @@ ul.poll li.graph {
 
 .torrent_table tr.group:nth-child(even), tr.group_torrent:nth-child(even), tr.torrent:nth-child(even) {
 	background-color: #eaf4fa;
+	font-size:9pt;
 }
 
 .torrent_table tr.group:nth-child(odd), tr.group_torrent:nth-child(odd), tr.torrent:nth-child(odd) {
 	background-color: #C0E4FA;
+	font-size:9pt;
 }
 
 .torrent_table div.tags {
