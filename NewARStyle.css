@@ -1094,3 +1094,7 @@ span.last_poster a{
 .linkbox strong {
 	color:#808080;
 }
+
+.linkbox a strong {
+	color:#fff;
+}
