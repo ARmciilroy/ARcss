@@ -366,7 +366,7 @@ ul.thin li {
 #searchbars {
 	width: 100%;
 	text-align: center;
-	background-color: #303030;
+	background-color: ##eaf4fa;
 	padding: 4px 0px;
 	min-width: 850px;
 }
@@ -422,7 +422,7 @@ ul.thin li {
 	position: relative;
 	padding: 10px 0px;
 	width: 100%;
-	background-color: #303030;
+	background-color: #eaf4fa;
 	min-width: 850px;
 }
 
