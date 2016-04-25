@@ -282,7 +282,8 @@ ul.thin li {
 	position: absolute;
 	top: 60px;
 	right: 7.5%;
-	background: none repeat scroll 0% 0% #303030;
+	background: #fff;
+	border:black solid 1px;
 	height: 15px;
 	width: 150px;
 	padding: 3px;
@@ -833,11 +834,11 @@ ul.poll li.graph {
 	text-align: center;
 }
 
-.torrent_table td.cats_col:nth-child(even){
+.torrent_table tr.:nth-child(even) td.cats_col{
 	background:#808080;
 }
 
-.torrent_table td.cats_col:nth-child(odd){
+.torrent_table tr.:nth-child(odd) td.cats_col{
 	background:#616161;
 }
 
