@@ -267,9 +267,12 @@ ul.thin li {
 
 #menu ul li:hover {
 	background-color: #bffedc;
-	text-decoration: none;
 	color: #000;
 	border: 1px solid #000;
+}
+
+#menu ul li a:hover {
+	text-decoration: none;
 }
 
 #donation-outer {
