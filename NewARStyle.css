@@ -700,13 +700,13 @@ td.colhead,.colhead td, .colhead th {
 }
 
 .colhead_dark {
-	background: #121212;
-	color: #fff;
+	background: #7ebdfa;
+	color: #000;
 	vertical-align: middle;
 }
 
 .colhead_dark a {
-	color: #fff;
+	color: #000;
 }
 
 td.label {
