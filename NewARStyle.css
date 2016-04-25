@@ -224,7 +224,7 @@ ul.thin li {
 #logo {
 	width: 396px;
 	height: 90px;
-	background: url('images/arbanner.png') no-repeat center center;
+	
 	background-color:#7ebdfa;
 	margin: 5px auto 2px auto;
 }
@@ -234,6 +234,7 @@ ul.thin li {
 	width: 396px;
 	height: 90px;
 	display: block;
+	background: url('images/arbanner.png') no-repeat center center;
 	background-color:#000;
 }
 
