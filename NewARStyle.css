@@ -265,7 +265,7 @@ ul.thin li {
 	color: #000;
 }
 
-#menu ul li a:hover {
+#menu ul li:hover {
 	background-color: #bffedc;
 	text-decoration: none;
 	color: #000;
