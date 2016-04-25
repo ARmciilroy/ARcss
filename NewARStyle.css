@@ -200,10 +200,11 @@ ul.thin li {
 	margin: auto;
 	width: 100%;
 	overflow: hidden;
-	background-color: #fff;
+	background-color: #ECFAEA;
 	position: relative;
 	top: 5px;
 	min-width: 850px;
+	border: solid black 1px;
 }
 
 #wrapper {
