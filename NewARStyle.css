@@ -450,9 +450,9 @@ ul.thin li {
 }
 
 .alertbar {
-	background-color: #222;
+	background-color: #FA525B;
 	text-align: center;
-	color: #ccc;
+	color: #000;
 	font-weight: bold;
 	font-size: 0.95em;
 	width: 350px;
