@@ -245,6 +245,7 @@ ul.thin li {
 	font-size: 12pt;
 	min-width: 850px;
 	border: solid black 1px;
+	margin:2px 0;
 }
 
 #menu ul li {
