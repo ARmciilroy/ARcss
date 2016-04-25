@@ -833,11 +833,11 @@ ul.poll li.graph {
 	text-align: center;
 }
 
-.torrent_table tr.:nth-child(even) td.cats_col{
+.torrent_table tr:nth-child(even) td.cats_col{
 	background:#808080;
 }
 
-.torrent_table tr.:nth-child(odd) td.cats_col{
+.torrent_table tr:nth-child(odd) td.cats_col{
 	background:#616161;
 }
 
