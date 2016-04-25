@@ -56,12 +56,12 @@ body {
 a {
 	text-decoration: none;
 	border: none;
-	color: #ccc;
+	color: #000;
 }
 
 a:hover {
 	text-decoration: underline;
-	color: #aaaaaa;
+	color: #0a00ff;
 }
 
 
