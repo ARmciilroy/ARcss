@@ -831,6 +831,10 @@ ul.poll li.graph {
 	text-align: center;
 }
 
+.torrent_table td.cats_col{
+	background:#000;
+}
+
 .group_torrent span {
 	float: right;
 }
