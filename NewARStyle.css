@@ -253,6 +253,7 @@ ul.thin li {
 	background-color: #c7e1fa;
 	padding: 6px 0;
 	margin: 0px;
+	border: solid black 1px;
 }
 
 #index #nav_index, #torrents #nav_torrents, #requests #nav_requests, #forums #nav_forums, #top10 #nav_top10, #rules #nav_rules, #wiki #nav_wiki, #staff #nav_staff, #collage #nav_collages, #chat #nav_irc {
@@ -261,7 +262,7 @@ ul.thin li {
 
 #menu ul li a {
 	padding: 0.6em 2%;
-	color: #fff;
+	color: #000;
 }
 
 #menu ul li a:hover {
